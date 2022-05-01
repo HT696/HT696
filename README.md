@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HT696
+- 👋 Hi, I’m Hesam
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on nothing for now
