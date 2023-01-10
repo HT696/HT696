@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hesam
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in DataScience, DeepLearning & Bitcoin
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me t.me/id696 
 
